@@ -27,7 +27,7 @@ const {
     generateWAMessageFromContent,
     S_WHATSAPP_NET,
     DisconnectReason
-} = require('baileys');
+} = require('@whiskeysockets/baileys');
 
 
 // ---------------- CONFIG ----------------
